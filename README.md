@@ -1,5 +1,5 @@
 # udpcrafter
-This program crafts an Ethernet frame which transport an UPD datagram and then sends it through a chosen Ethernet interface.
+This program crafts an Ethernet frame which transport an UDP datagram and then sends it through a chosen Ethernet interface.
 It allows to spoof both IP src address and src MAC address.
 
 ## PREREQUISITES
